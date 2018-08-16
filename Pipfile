@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jsonschema = "*"
+requests = "*"
+code-gov-validator-python = {editable = true, path = "."}
+
+[dev-packages]
+bumpversion = "*"
+wheel = "*"
+tox = "*"
+coverage = "*"
+sphinx = "*"
+twine = "*"
+pytest = "*"
+pytest-runner = "*"
+watchdog = "*"
+"flake8" = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.7"

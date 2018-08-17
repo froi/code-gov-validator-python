@@ -2,6 +2,7 @@
 code-gov-validator-python
 =========================
 
+.. image:: https://badgen.net/badge/status/pre-alpha/red
 
 .. image:: https://img.shields.io/pypi/v/code_gov_validator_python.svg
         :target: https://pypi.python.org/pypi/code_gov_validator_python
